@@ -11,21 +11,14 @@ I'm a brazilian ***Full Stack Web Developer*** living in São Paulo. Currently I
 
 ## Saulo.technologies()
 
-Being a Full Stack Web Developer myself, these are my main techs:
+Being a Full Stack Web Developer myself, these are some of my main techs:
 
 ***Front End:***
  - JavaScript / ES6+
  - TypeScript
- - HTML5
- - CSS3
  - React
  - Redux
- - Context
- - Styled Components
- - Material UI / ChakraUI
  - TailwindCSS
- - Vite
- - NextJS
 
 ***Back End:***
 

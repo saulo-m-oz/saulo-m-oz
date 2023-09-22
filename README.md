@@ -1,30 +1,8 @@
-# import {Saulo} from "saulomoz";
+# import { Saulo as Developer } from 'profile'
 
-```js
-"Hello and welcome to my GitHub Profile!";
-"Here you'll find some of my latest projects that I've been working on.";
-"If there's something you like, feel free to check it out and even fork it! 😊";
-```
+Most of the time I'm working as a Fullstack Developer but I also tend to spent my nights trying to learn about game development.
 
-## Saulo.about()
-I'm a brazilian ***Full Stack Web Developer*** living in São Paulo. Currently I'm 26yo and finding myself in this whole new world that is being a developer. My journey started in January 2022 when I joined ***Kenzie Academy*** as a student, even working for them as a ***JavaScript and React Peer Coach***.
+Some of the personal projects I've worked on:
 
-## Saulo.technologies()
-
-Being a Full Stack Web Developer myself, these are some of my main techs:
-
-***Front End:***
- - JavaScript / ES6+
- - TypeScript
- - React
- - Redux
- - TailwindCSS
-
-***Back End:***
-
- - nodeJS
- - Express
- - PostgreSQL
- - GraphQL
- - Firestore
- - MongoDB
+- [User Randomizer](https://github.com/saulo-m-oz/randomize-user) - Made with Vue - [GitPage](https://saulo-m-oz.github.io/randomize-user/)
+- [Topdown RPG](https://github.com/saulo-m-oz/topdown_rpg) - Super basic 2D game made with Raylib to learn the basics of C++
